@@ -1,1 +1,1 @@
-Just some React practice
+Just some React practice from tutorial
