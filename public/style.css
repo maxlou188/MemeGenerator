@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-/* body {
+body {
     margin: 0;
     font-family: Karla, sans-serif;
 }
@@ -68,13 +68,4 @@
 	.meme-image {
         max-width: 100%;
     }
-} */
-
-.boxes {
-    width: 100px;
-    height: 100px;
-    border: 1px solid black;
-    display: inline-block;
-    margin-right: 4px;
-    border-radius: 5px;
 }
